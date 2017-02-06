@@ -1,2 +1,2 @@
 curl https://js.pay.jp/ |
-pretty-js >payjp.js
+pretty-js >Native/PayJP.js
