@@ -1,0 +1,16 @@
+{
+    "version": "1.0.0",
+    "summary": "Pay.JP glue module",
+    "repository": "https://github.com/uebayasi/elm-payjp.git",
+    "license": "BSD2",
+    "source-directories": [
+        "src"
+    ],
+    "exposed-modules": [
+        "PayJP"
+    ],
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0"
+    },
+    "elm-version": "0.17.0 <= v < 0.18.0"
+}
